@@ -7,37 +7,37 @@
 ## Pages
 
 ### בית
-https://reptiles-and-more-51577821.zappy5.app
+https://example.com
 חנות הזוחלים המובילה לקניית זוחלים אונליין, גידול חיות מחמד ומכירה למגדלים. גלו מגוון שממיות, נחשים ולטאות איכותיות, בליווי ידע מקצועי שיהפוך אתכם למומחים. הצטרפו עכשיו לקהילת המגדלים!
 
 ### טיפול בזוחלים
-https://reptiles-and-more-51577821.zappy5.app/reptile-care
+https://example.com/reptile-care
 מדריך טיפול מקיף בזוחלים: תזונה, טרריום, בריאות וחימום נכונים. למדו כיצד להעניק לחיית המחמד שלכם את התנאים האופטימליים לחיים מאושרים ובריאים. היכנסו והתחילו לטפל כמו מקצוענים!
 
 ### הדרכה לרבייה
-https://reptiles-and-more-51577821.zappy5.app/breeding-guidance
+https://example.com/breeding-guidance
 הדרכה מעשית לרביית זוחלים: מבחירת זוגות רבייה ועד השרצה מוצלחת. קבלו טיפים בלעדיים ממגדלים ותיקים שיעזרו לכם להקים קו רבייה מנצח. התחילו את מסע הרבייה שלכם עכשיו!
 
 ### צור קשר
-https://reptiles-and-more-51577821.zappy5.app/contact
+https://example.com/contact
 צרו קשר לייעוץ אישי בבחירת זוחל, תמיכה בטיפול או שאלות על משלוחים. צוות המומחים שלנו כאן כדי להבטיח שתקבלו בדיוק את מה שאתם צריכים. מלאו את הפרטים ונחזור אליכם במהירות!
 
 ### תודה שפניתם אלינו
-https://reptiles-and-more-51577821.zappy5.app/thank-you
+https://example.com/thank-you
 Reptiles and more - תודה שפניתם אלינו
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://reptiles-and-more-51577821.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://reptiles-and-more-51577821.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://reptiles-and-more-51577821.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -47,8 +47,8 @@ Information about WCAG compliance and accessibility features.
 - (No contact details configured yet.)
 
 ### Contact form
-- URL: https://reptiles-and-more-51577821.zappy5.app/contact
-- Endpoint: https://reptiles-and-more-51577821.zappy5.app/api/email/contact-form
+- URL: https://example.com/contact
+- Endpoint: https://example.com/api/email/contact-form
 - Method: POST
 - Content-Type: application/json
 - Fields:
@@ -78,6 +78,6 @@ Pet Store / Reptile Sales
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://reptiles-and-more-51577821.zappy5.app/sitemap.xml
-- Robots: https://reptiles-and-more-51577821.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://reptiles-and-more-51577821.zappy5.app/llms-full.txt
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
